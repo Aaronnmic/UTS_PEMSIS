@@ -124,6 +124,7 @@ http://localhost:3000/
 
 ## Struktur Folder
 
+```
 inventory-management/
 ├── src/
 │   ├── config/
@@ -153,3 +154,4 @@ inventory-management/
 ├── package.json
 ├── package-lock.json
 └── README.md
+```
